@@ -41,3 +41,12 @@ print(len(phrase))
 
 # A function to get individual characters in a string
 print(phrase[0]) # This prints the first character of the string
+print(phrase[3]) # This prints the second character of the string
+print(phrase[0:3]) # This prints the first three characters of the string
+print(phrase[0:]) # This prints the first four characters of the string
+
+# The Index function is used to find the index of a character in a string
+print(phrase.index("a")) # This prints the index of the first occurrence of the character "a" in the string
+
+# The replace function is used to replace a character in a string with another character
+print(phrase.replace("Giraffe", "Elephant")) # This replaces the word "Giraffe" with "Elephant" in the string
