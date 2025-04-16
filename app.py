@@ -22,5 +22,5 @@ character_name = "Mike"
 print("He really liked the name " + character_name + ",")
 print("but didn't like being " + character_age + ".")
 
-# Working with strings
+
 
