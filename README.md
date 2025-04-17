@@ -1,2 +1,2 @@
 # Python
-This i my journey
+This is my journey
