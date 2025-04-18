@@ -43,3 +43,12 @@ print(min(4,1))
 #round function, round(). It rounds a number to the nearest integer
 print(round(3.2))
 print(round(3.7))
+
+# There are other functions that are not built-in functions, but they are part of the math module
+# We have to import the math module to use them
+from math import * # This imports all the functions in the math module
+# We can also import only the functions we need
+# from math import sqrt, ceil, floor, pi # This imports only the functions we need
+print(floor(3.7)) # It rounds down to the nearest integer
+print(ceil(3.7)) # It rounds up to the nearest integer
+print(sqrt(36)) # It returns the square root of a number
