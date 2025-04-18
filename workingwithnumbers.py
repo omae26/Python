@@ -1,3 +1,4 @@
+#17/04/2025
 # Working with numbers
 
 print(5)
@@ -8,6 +9,7 @@ print(3+4.5)
 print(3*4.5)
 print(3*(4+5))
 
+# 18/04/2025
 # The modulus operator %,it returns the remainder of a division
 print(10%3)
 print(10//3) # floor division

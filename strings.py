@@ -1,3 +1,4 @@
+# 16/04/2025
 # Working with strings 
 # Strings are a sequence of characters enclosed in quotes
 # Strings can be enclosed in single quotes or double quotes
