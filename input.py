@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+university_name = input("Enter your unersity name: ")
+year_of_study = input("Enter your year of study: ")
+reg_no = input("Enter you registartion number: ")
+course_name = input("Enter your course name: ")
+print("Hello " + name + "!" " Welcome to the University of " + university_name + " ," + year_of_study + " year, " + reg_no + " an " + course_name + " student.")
