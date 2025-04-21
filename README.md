@@ -17,7 +17,10 @@ To change a string, you must create a new string
 
 # Working with Numbers
 Under this I handled various operators, How to store numbers in a variable, How to convert a number into a string, and how to use various functions like abs(), pow() etc
+
 # Getting input from user
+Using the input() function to get inputs from users
+The input function returns a string, so we have to convert it to a number if we want to perform arithmetic operations on it
 
 # Building a simple calculator
 # Mad Libs Game
