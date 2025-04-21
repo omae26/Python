@@ -11,3 +11,5 @@ They can only store one value of a single type
 # Building a simple calculator
 # Mad Libs Game
 # Lists in python
+List store more than one value at a single time,and they can be of deffernt types
+That is the most distinguihing difference between lists and variables
