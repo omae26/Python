@@ -26,7 +26,10 @@ The input function returns a string, so we have to convert it to a number if we 
 I built a simple calculator that can perform addition, and also identifies the numbers as integers or decimal
 The goal is to improve it and make it more comple as time goes by
 The bit of gettinginput from user came in handy while working on this
+
 # Mad Libs Game
+This is a simple game that asks the user to input random words, and a story is created from the words input by the user.
+
 # Lists in python
 List store more than one value at a single time,and they can be of deffernt types
 That is the most distinguihing difference between lists and variables
