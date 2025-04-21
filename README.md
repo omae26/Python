@@ -16,7 +16,9 @@ They are immutable, meaning they cannot be changed after they are created
 To change a string, you must create a new string
 
 # Working with Numbers
+Under this I handled various operators, How to store numbers in a variable, How to convert a number into a string, and how to use various functions like abs(), pow() etc
 # Getting input from user
+
 # Building a simple calculator
 # Mad Libs Game
 # Lists in python
