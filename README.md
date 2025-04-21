@@ -23,6 +23,9 @@ Using the input() function to get inputs from users
 The input function returns a string, so we have to convert it to a number if we want to perform arithmetic operations on it
 
 # Building a simple calculator
+I built a simple calculator that can perform addition, and also identifies the numbers as integers or decimal
+The goal is to improve it and make it more comple as time goes by
+The bit of gettinginput from user came in handy while working on this
 # Mad Libs Game
 # Lists in python
 List store more than one value at a single time,and they can be of deffernt types
