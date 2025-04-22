@@ -13,3 +13,21 @@ def say_hi(): # After the colons, all the code that comes after is going to be p
 # This is done by writing the function name followed by parentheses.
 
 say_hi() # Output: Hello user!
+
+# Naming functions in python has to be done in lowercase letters.
+# If the function name has more than one word, we separate them with underscores.
+
+# A parameter,is a piece of informatioon that we give to a fucntion when we call it. 
+# Example of a function with a parameter:
+def say_hi(name):
+    print("Hello " + name + "!" )
+say_hi("John")
+say_hi("James")
+
+# A function can have multiple parameters.
+# Example of a function with multiple parameters:
+def say_hi(name, age):
+    print("Hello " + name + "! You are " + age + " years old.")
+
+say_hi("Mike", "25")
+say_hi("Sarah", "30")
