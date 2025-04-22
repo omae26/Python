@@ -33,5 +33,8 @@ This is a simple game that asks the user to input random words, and a story is c
 # Lists in python
 List store more than one value at a single time,and they can be of deffernt types
 That is the most distinguihing difference between lists and variables
+Square brackets are used to store elements in a tuple.
 
 # Tuples in python
+Tuples are similar to list only that they are immutable. Once elements are added to a tuple, they can't be changed. It is often used to store elements that cannot change.
+Parenthesis are used to store elements in a tuple.
