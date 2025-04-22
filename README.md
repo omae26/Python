@@ -33,3 +33,5 @@ This is a simple game that asks the user to input random words, and a story is c
 # Lists in python
 List store more than one value at a single time,and they can be of deffernt types
 That is the most distinguihing difference between lists and variables
+
+# Tuples in python
