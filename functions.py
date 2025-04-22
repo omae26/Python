@@ -18,6 +18,7 @@ say_hi() # Output: Hello user!
 # If the function name has more than one word, we separate them with underscores.
 
 # A parameter,is a piece of informatioon that we give to a fucntion when we call it. 
+# We can pass any type of data to a function as a parameter, including strings, integers, booleans and lists.
 # Example of a function with a parameter:
 def say_hi(name):
     print("Hello " + name + "!" )

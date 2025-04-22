@@ -38,3 +38,5 @@ Square brackets are used to store elements in a tuple.
 # Tuples in python
 Tuples are similar to list only that they are immutable. Once elements are added to a tuple, they can't be changed. It is often used to store elements that cannot change.
 Parenthesis are used to store elements in a tuple.
+
+# Functions in python
