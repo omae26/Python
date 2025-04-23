@@ -1,5 +1,5 @@
 # 22/04/2025
-# A function is a collection of ststements whic perform a specific task.
+# A function is a collection of statements which perform a specific task.
 # Functions are used to break down a program into smaller, more manageable pieces.
 # Functions can take inputs (arguments) and return outputs (results).
 

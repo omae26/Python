@@ -40,3 +40,5 @@ Tuples are similar to list only that they are immutable. Once elements are added
 Parenthesis are used to store elements in a tuple.
 
 # Functions in python
+Functions are a collection of statements which perform a specific task.
+They are defined using the 'def' keyword.
