@@ -43,5 +43,8 @@ Parenthesis are used to store elements in a tuple.
 Functions are a collection of statements which perform a specific task.
 They are defined using the 'def' keyword.
 
-# Retrun Statements
+# Return Statements
 These statements are used to make a function that has been called, return a particular value.
+
+# If statements
+They are used to execute decisions in python based on some conditions
