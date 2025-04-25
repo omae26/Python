@@ -1,5 +1,5 @@
 # 20/04/2025
-# Lists in Python
+# Lists in  Python
 # Lists are mutable, ordered collections of items
 # Lists can contain items of different types; strings, integers, floats, booleans, etc.
 # Lists are defined using square brackets []
