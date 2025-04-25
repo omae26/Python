@@ -10,3 +10,6 @@
 name = input("Enter your name: ")
 age = input("Enter your age: ")
 print("Hello " + name + "! You are " + age + " years old.")
+
+school = input("Enter name of your school")
+print("Hello! I am in " + name + ".")
