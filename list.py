@@ -21,3 +21,10 @@ print(friends[0:3])
 friends[2] = "Monica Geller"
 print(friends[2])
 print(friends)
+
+
+religion = ["Christianity", "Islam", "Hindu", "Budhism", "Orthodox", "Roman Catholic"]
+print(religion)
+
+numbers = (4, 7, 9, 10, 45, 34)
+print(numbers)
