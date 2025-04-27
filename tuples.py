@@ -15,4 +15,8 @@ coordinates = (4, 5)
 print(coordinates[0])  # Output: 4
 print(coordinates[1])  # Output: 5
 
+color = (ffff, dddd)
+print(color[0])
+print(color[1])
+
 # Tuples are often used for data that can never change e.g. coordinates, RGB values, etc.
