@@ -14,6 +14,7 @@ Strings are a sequence of characters enclosed in quotes
 They can be enclosed in single quotes or double quotes
 They are immutable, meaning they cannot be changed after they are created
 To change a string, you must create a new string
+That means strings are like tuples because both of them are immutable
 
 # Working with Numbers
 Under this I handled various operators, How to store numbers in a variable, How to convert a number into a string, and how to use various functions like abs(), pow() etc
