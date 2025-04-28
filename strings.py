@@ -21,6 +21,7 @@ phrase = "Giraffe Academy"
 print(phrase)
 # Concatenation is used to combine two strings together
 print(phrase + " is cool")
+print(phrase + " is an online school that teaches about python programmming")
 
 # Functions in strings are used to modify strings, to get information about strings
 # They are used to perform operations on strings

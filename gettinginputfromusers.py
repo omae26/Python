@@ -10,3 +10,12 @@
 name = input("Enter your name: ")
 age = input("Enter your age: ")
 print("Hello " + name + "! You are " + age + " years old.")
+
+school = input("Enter name of your school")
+print("Hello! I am in " + name + ".")
+
+#Examples
+project = input("Enter project name: ")
+group_leader = input("Enter group leader name: ")
+group_members = input("Enter the number of group members: ")
+print("Hi all!, this is group 5. Our project is called " + project_name + "." "My name is " + group_leader + " together with my group members we are " + group_members + " in total.")

@@ -12,7 +12,6 @@ print(cube(3)) # This will print None, as the function does not return anything.
 
 def cube(num):
     return num*num*num
-
 print(cube(3))
 # This will print 27, as the function now returns the result of the calculation.
 # The return statement is used to exit a function and return a value to the caller.

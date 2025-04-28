@@ -14,6 +14,7 @@ Strings are a sequence of characters enclosed in quotes
 They can be enclosed in single quotes or double quotes
 They are immutable, meaning they cannot be changed after they are created
 To change a string, you must create a new string
+That means strings are like tuples because both of them are immutable
 
 # Working with Numbers
 Under this I handled various operators, How to store numbers in a variable, How to convert a number into a string, and how to use various functions like abs(), pow() etc
@@ -30,15 +31,21 @@ The bit of gettinginput from user came in handy while working on this
 # Mad Libs Game
 This is a simple game that asks the user to input random words, and a story is created from the words input by the user.
 
-# Lists in python
+# Lists 
 List store more than one value at a single time,and they can be of deffernt types
 That is the most distinguihing difference between lists and variables
 Square brackets are used to store elements in a tuple.
 
-# Tuples in python
+# Tuples 
 Tuples are similar to list only that they are immutable. Once elements are added to a tuple, they can't be changed. It is often used to store elements that cannot change.
 Parenthesis are used to store elements in a tuple.
 
-# Functions in python
+# Functions 
 Functions are a collection of statements which perform a specific task.
 They are defined using the 'def' keyword.
+
+# Return Statements
+These statements are used to make a function that has been called, return a particular value.
+
+# If statements
+They are used to execute decisions in python based on some conditions

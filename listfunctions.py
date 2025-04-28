@@ -4,6 +4,7 @@
 lucky_numbers = [4, 8, 15, 16, 23, 2]
 friends = ["Ross", "Rachel", "Monica", "Chandler", "Joey", "Joey", "Phoebe"]
 
+# Functions used to manipulate parameters in lists
 # List functions
 #sort() - sorts the elements of a list in ascending order
 friends.sort() # alphabetically
