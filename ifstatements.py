@@ -22,6 +22,8 @@ is_tall = False
 # If is_male is false, it will print 'You are not a male but tall'
 # If is_male is true, and is_tall false ,it will print 'You are a short male'
 # If both are false, it will print 'You are not male and not tall'
+
+# 29/04/2025
 # OR operator 
 if is_male or is_tall:
     print("You are male or tall or both ")
