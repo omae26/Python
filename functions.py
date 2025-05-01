@@ -33,7 +33,7 @@ def say_hi(name, age):
 say_hi("Mike", "25")
 say_hi("Sarah", "30")
 
-def project_name()
+def project_name():
     print("Lift controller mechanism")
 project_name()
     
