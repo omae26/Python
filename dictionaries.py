@@ -19,3 +19,6 @@ monthConversions = {
     "Nov": "November",
     "Dec": "December"
 }
+# How to access the values in the dictionary
+# We refer to the key in the dictionary to get the value.
+print(monthConversions["Nov"]) # November
