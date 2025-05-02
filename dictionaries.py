@@ -4,6 +4,7 @@
 
 # Example: Converting a 3-digit month name into a full-month name.
 # The month name (data) is the key and the full- month name is the value.
+# Keys can be numbers, strings, or tuples.
 
 monthConversions = {
     "Jan": "January",
@@ -19,6 +20,11 @@ monthConversions = {
     "Nov": "November",
     "Dec": "December"
 }
-# How to access the values in the dictionary
+# How to access the values in the dictionary, we have 2 meothods
 # We refer to the key in the dictionary to get the value.
 print(monthConversions["Nov"]) # November
+print(monthConversions.get("Dec")) # December)
+
+# print(monthConversions.get("Luv")) # This will return None, since the key is not in the dictionary.
+# We can also set a default value to be returned if the key is not found in the dictionary.
+print(monthConversions.get("Luv", "Not a valid key"))
