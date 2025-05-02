@@ -50,3 +50,7 @@ These statements are used to make a function that has been called, return a part
 # If statements
 They are used to execute decisions in python based on some conditions
 I learnt about the operators that are used with if statements, e.g.or, and and also the elseif that is used to add additional conditions to a program
+I also learnt about the elif(else if)
+
+# If statements with comparisons
+In this section I learnt about the compaison operators and how they sre used together with if statements 
