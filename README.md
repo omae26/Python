@@ -57,4 +57,6 @@ In this section I learnt about the compaison operators and how they sre used tog
 
 # Better claculator
 I built another calculator that allows the user to select the type of operator to use after entering the numbers they want to manipulate
+
 # Dictionaries
+These ones allow a user to store values using 'keys'
