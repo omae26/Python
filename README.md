@@ -54,5 +54,7 @@ I also learnt about the elif(else if)
 
 # If statements with comparisons
 In this section I learnt about the compaison operators and how they sre used together with if statements 
+
 # Better claculator
+I built another calculator that allows the user to select the type of operator to use after entering the numbers they want to manipulate
 # Dictionaries
