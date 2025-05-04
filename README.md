@@ -60,3 +60,5 @@ I built another calculator that allows the user to select the type of operator t
 
 # Dictionaries
 These ones allow a user to store values using 'keys'
+
+# While Loop
