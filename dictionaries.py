@@ -20,7 +20,7 @@ monthConversions = {
     "Nov": "November",
     "Dec": "December"
 }
-# How to access the values in the dictionary, we have 2 meothods
+# How to access the values in the dictionary, we have 2 meothods that we cam use
 # We refer to the key in the dictionary to get the value.
 print(monthConversions["Nov"]) # November
 print(monthConversions.get("Dec")) # December)
