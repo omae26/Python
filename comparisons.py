@@ -11,7 +11,7 @@ def max_num(num1, num2,num3):
     else:
         return num3
     
-print(max_num(3, 4, 5)) # 5
+print(max_num(3, 4, 5)) #5
 
 # Comparison of strings using if statements
 # We often use == or != to compare strings
