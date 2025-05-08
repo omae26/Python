@@ -9,7 +9,7 @@
 def say_hi(): # After the colons, all the code that comes after is going to be part of the function. We therefore have to indent it.
     print("Hello user!")
 
-# For us to execture the function, we have to call it. 
+# For us to execute the function, we have to call it. 
 # This is done by writing the function name followed by parentheses.
 
 say_hi() # Output: Hello user!
