@@ -12,7 +12,7 @@ print("/___|")
 
 # variables and data types in python
 # A variable is a container for a number of data values
-# When creating a variable, we have to give the name of the variable
+# When creating a variable, we have to give the name of the variable 
 # Data types: Strings (text), Numbers(whole, decimal), Boolean (True or False)
 
 character_name = "Alex"
