@@ -22,7 +22,7 @@ lucky_numbers.reverse() # reverses the order of the elements in the list
 print(friends)
 print(lucky_numbers)
 
-# extend() - adds elements of a list to another list i.e allows you to take a listand append another list onto the end of it
+# extend() - adds elements of a list to another list i.e allows you to take a list and append another list onto the end of it
 friends.extend(lucky_numbers)
 
 # append() - adds a single element to the end of a list
