@@ -4,7 +4,7 @@
 # Lists can contain items of different types; strings, integers, floats, booleans, etc.
 # Lists are defined using square brackets []
 # Lists can be empty or contain multiple items
-# Lists are indexed starting from 0; The index are used to access items in the list
+# Lists are indexed starting from 0; The index are used to access specific items in the list
 # The differenc between a list and variable is that a list can contain multiple items, a variable can only contain one item
 # Lists can be nested, meaning that a list can contain other lists as items
 # Lists can be sliced, meaning that you can get a sublist from a list using the colon operator [:]
