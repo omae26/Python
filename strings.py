@@ -23,7 +23,7 @@ print(phrase)
 print(phrase + " is cool")
 print(phrase + " is an online school that teaches about python programmming")
 
-# Functions in strings are used to modify strings, to get information about strings
+# Functions in strings are used to modify strings, and to get information about strings
 # They are used to perform operations on strings
 phrase ="Giraffe Academy"
 
