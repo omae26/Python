@@ -19,4 +19,4 @@ color = (ffff, dddd)
 print(color[0])
 print(color[1])
 
-# Tuples are often used for data that can never change e.g. coordinates, RGB values, etc.
+# Tuples are often used for data that can never change e.g. coordinates, RGB values,radius of the earth etc.
