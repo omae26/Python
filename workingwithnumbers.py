@@ -10,7 +10,7 @@ print(3*4.5)
 print(3*(4+5))
 
 # 18/04/2025
-# The modulus operator %,it returns the remainder of a division
+# The modulus operator %, returns the remainder of a division
 print(10%3)
 print(10//3) # floor division
 print(10/3) # normal division
@@ -19,7 +19,7 @@ print(10/3) # normal division
 my_num = 5
 print(my_num)
 
-# How to conver a number to a string. It helps to concatenate a number with a string or when we want to print a number with a string
+# How to convert a number to a string. It helps to concatenate a number with a string or when we want to print a number with a string
 print(str(my_num))
 print(str(my_num) + " is my favorite number")
 # Anytime we want to convert a number to a string or to use a number together with a string, we 
