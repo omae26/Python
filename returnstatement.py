@@ -1,5 +1,5 @@
 # 24/04/2025
-# A collection of python codes tha perform a specific task
+# A collection of python codes that perform a specific task
 
 # This code is a simple example of using a return statement in a function.
 # A function that cubes a number and returns the result.
