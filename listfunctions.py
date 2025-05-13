@@ -36,7 +36,7 @@ friends.insert(2, "Janice")
 #It holds 1 parameter, the element you want to remove from the list
 friends.remove("Janice")
 
-#index() - returns the index of  a specified element in a list
+#index() - returns the index of  a specified element in a list.
 #It holds 1 parameter, the element you want to find the index of in the list
 #It returns the index of the first occurrence of the element in the list
 print(friends.index("Rachel"))
