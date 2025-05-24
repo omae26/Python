@@ -63,3 +63,4 @@ These ones allow a user to store values using 'keys'
 
 # While Loop
 Took a long break, we'll resume, soon
+We did resume back on 23rd May, quite a long time but better coming back than quiting completely
