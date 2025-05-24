@@ -1,3 +1,4 @@
+# 24/05/2025
 # Building a simple translator 
 # Basic rules of the language, any vowel is translated to g
 

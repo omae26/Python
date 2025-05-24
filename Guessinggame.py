@@ -1,5 +1,5 @@
 # We specify a secret word and the user will keep guessing until they get the secret word right
-# 23/05/2025
+# 24/05/2025
 
 secret_word = "giraffe"  # A variable that will store the secret word
 guess = ""   # A variable to store the user's guess

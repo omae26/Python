@@ -1,3 +1,4 @@
+# 24/05/2025
 # An exponent fuction allows us to take a certain number and raise it to a certain number
 
 def raise_to_power(base_num, pow_num):  #takes 2 numbers

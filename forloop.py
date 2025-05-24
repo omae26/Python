@@ -1,5 +1,5 @@
 # for loop
-# 23.05.2025
+# 24.05.2025
 
 for letter in "Giraffe Academy" : # For every letter in giraffe academy...
     print(letter) # It will print out all letters in giraffe academy,a different one each time
