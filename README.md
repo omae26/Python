@@ -74,6 +74,9 @@ The secret word is intially defined and stored.
 # Comments
 In this lesson I learnt just how comments are stated or identified in python.
 I love using comments. they are fun to use
+
 # Basic translator
+In this lesosn I built a simple languagw translator with a simple defined language
+I have ever though of building something related to this and I guess that was interesting to learn
 # Exponent function
 # 2D lists & Nested loops
