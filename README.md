@@ -68,6 +68,8 @@ The rest up until 2D is what I learnt when I got back
 
 # For Loop
 # Guessing game
+This is a simple game that allows the user to guess the secret word for a number of times until they get it correctly.
+The secret word is intially defined and stored.
 # Comments
 # Basic translator
 # Exponent function
