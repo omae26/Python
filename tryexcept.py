@@ -11,4 +11,4 @@ except ZeroDivisionError as err:
 except ValueError:
     print("Invalid input!")
 
-# Using except alone is too broad. It is important to specify the type of error
+# Using except alone is too broad. It is important to specify the type of error you want to catch
