@@ -63,7 +63,7 @@ These ones allow a user to store values using 'keys'
 
 # While Loop
 Took a long break, we'll resume, soon
-We did resume back on 23rd May, quite a long time but better coming back than quiting completely
+We did resume back on 24th May, quite a long time but better coming back than quiting completely
 The rest up until 2D is what I learnt when I got back
 
 # For Loop
