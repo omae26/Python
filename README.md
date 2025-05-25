@@ -70,7 +70,10 @@ The rest up until 2D is what I learnt when I got back
 # Guessing game
 This is a simple game that allows the user to guess the secret word for a number of times until they get it correctly.
 The secret word is intially defined and stored.
+
 # Comments
+In this lesson I learnt just how comments are stated or identified in python.
+I love using comments. they are fun to use
 # Basic translator
 # Exponent function
 # 2D lists & Nested loops
