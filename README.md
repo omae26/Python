@@ -78,5 +78,8 @@ I love using comments. they are fun to use
 # Basic translator
 In this lesosn I built a simple languagw translator with a simple defined language
 I have ever though of building something related to this and I guess that was interesting to learn
+
 # Exponent function
+
 # 2D lists & Nested loops
+Here I learnt about 2-Dimendional lists. how to print out elements in a list anf how to select specific elements in the 2-D list
