@@ -7,3 +7,9 @@ class Student:
         self.major = major
         self.gpa = gpa
         self.is_on_probation = is_on_probation
+
+    def on_honor_roll(self):    # This is a method(a defined functn) that checks if the student is on the honor roll
+        if self.gpa >= 3.5:
+            return True
+        else:
+            return False
