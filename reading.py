@@ -4,7 +4,7 @@
 # Some of the commands are:
 
 open('employes.txt', 'r')  # Opens the file in read mode. not modifying it, just reading
-open("employess.txt", "w")  # Opens the file in write mode. Allows the user to modify the file. 
+open("employess.txt", "w")  # Opens the file in write mode. Allows the user to modify the file. If the file does not exist, it creates a new file. If it exists, it overwrites the existing content.
 open("employess.txt","a") # Opens the file in append mode. Allows the user to add new content to the end of the file without modifying existing content.
 open("employess.txt","r+") # Opens the file in read and write mode. Allows the user to read and modify the file.
 open("employess.txt","a+") # Opens the file in append and read mode. Allows the user to read and add new content to the end of the file.
