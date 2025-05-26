@@ -1,5 +1,3 @@
-Jim - salesman
-Dwight - salesman
-Pam - Receptionist
-Michael - Manager
-Oscar - Accountant
+Jim - Salesman
+Ann - Receptionist
+Joe - Chief of staff
