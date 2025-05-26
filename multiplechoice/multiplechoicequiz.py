@@ -5,7 +5,7 @@
 # 1. Define an array of questions with options.
 # 2. Create a questions class to store the questions prompts and answer
 
-from question import Question
+from multiplechoice.question import Question
 question_prompts = [
     "What is the capital of France?\n(a) London\n(b) Paris\n(c) Berlin\n\n",
     "Who wrote 'To Kill a Mockingbird'?\n(a) Harper Lee\n(b) Mark Twain\n(c) F. Scott Fitzgerald\n\n",

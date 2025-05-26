@@ -4,7 +4,7 @@
 # It is also great to use modules written by other dvelopers.
 # The other file we're using is useful.py
 
-import useful
+import Modules.useful as useful
 
 print(useful.roll_dice(10))
 
