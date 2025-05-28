@@ -84,3 +84,17 @@ I have ever though of building something related to this and I guess that was in
 # 2D lists & Nested loops
 Here I learnt about 2-Dimendional lists. how to print out elements in a list anf how to select specific elements in the 2-D list
 In Nested loops I learnt how to invlude mutliple loops in yor program
+
+# Building a Translator
+# Comments
+# Try Except
+# Reading files
+# Writing to files
+# Modules & pip
+# Clases & Objects
+# Object functions
+# Inheritance
+# Python Interpreter
+
+
+# So I completed the 4-hour python tutorial videomby Freecode Camp on 26th May 2025. Yayy me!!
