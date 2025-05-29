@@ -3,6 +3,7 @@
 # We have built in and external modules, but we can also create our own.
 # It is also great to use modules written by other dvelopers.
 # The other file we're using is useful.py
+# The import keyword is used to import a module
 
 import Modules.useful as useful
 
