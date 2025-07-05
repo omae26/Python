@@ -6,7 +6,7 @@ So this is the order:
 # Variables
 Variables are used to store values
 They can only store one value of a single type 
-When creating a variable, we have to give the name of the variable
+When creating a variable, we have t o give the name of the variable
 Data types: Strings (text), Numbers(whole, decimal), Boolean (True or False)
 
 # Strings
